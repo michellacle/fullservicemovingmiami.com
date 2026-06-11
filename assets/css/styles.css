@@ -598,6 +598,19 @@ p {
   resize: vertical;
 }
 
+.contact-form .form-status {
+  margin: 0;
+  font-size: 0.9rem;
+  font-weight: 600;
+  min-height: 1.4em;
+}
+
+.contact-form .form-note {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
 .contact-details a {
   color: var(--claret);
   text-decoration: none;
